@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main {
+  padding: 3vh 2vh 2vh 2vh;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2vh;
+  justify-content: center;
+}
